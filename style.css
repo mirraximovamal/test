@@ -10,3 +10,13 @@
     border: 2px solid black;
     margin: 20px auto;
 }
+
+.navbar 
+{
+    height: 100px;
+}
+
+.header
+{
+    height:500px;
+}
